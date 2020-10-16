@@ -87,6 +87,9 @@ ul.top_menu {
 td > input, textarea {
   width: 480px
 }
+.sex {
+  width: 30px
+}
 .btn {
   height: 30px;
   width: 100px;
